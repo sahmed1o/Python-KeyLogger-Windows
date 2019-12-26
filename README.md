@@ -69,8 +69,10 @@ Open IDLE, or PyCharm, or whatever text editor, or IDE that you prefer for pytho
 
 <img src="screenshots/screen6.png"  />
 
-<strong>This is how the log file(s) store the logged keys:</strong>
 <img src="screenshots/screen7.png"  />
+
+<strong>This is how the log file(s) store the logged keys:</strong>
+<img src="screenshots/screen8.png"  />
 
 <strong>This is the sent keys logged to the email specified:</strong>
 <img src="screenshots/screen9.png"  />
