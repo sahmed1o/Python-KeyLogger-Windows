@@ -53,7 +53,7 @@ Sign into the gmail account that you want to use with the python program, and pr
 </ul>
 If you are dealing with this issue with the IDLE, then delete the contents in the .idlerc folder located within your user profile of your computer. To find the folder check your user profile name followed by %APPDATA% and look for a folder called.<b>".idlerc"</b>. Delete everything in that folder, and you should be able to run the program through python IDLE.
 
-<img  src="https://offseclab.com/wp-content/uploads/2018/03/deletethis.png"  />
+<img src="screenshots/screen3.png"  />
 
 <h2>Output:</h2>
 <strong>Running the Program:</strong>
@@ -63,17 +63,17 @@ Open IDLE, or PyCharm, or whatever text editor, or IDE that you prefer for pytho
 <strong>Here is an example of the program running. This is the output after first going to notepad and typing some words, then going to google. This is to show how the program marks the windows/programs the target is currently on.</strong>
 
 
-<img  src="https://offseclab.com/wp-content/uploads/2018/03/python2.png" />
+<img src="screenshots/screen4.png"  />
 
-<img  src="https://offseclab.com/wp-content/uploads/2018/03/python3.png" />
+<img src="screenshots/screen5.png"  />
 
-<img  src="https://offseclab.com/wp-content/uploads/2018/03/python4.png"  />
+<img src="screenshots/screen6.png"  />
 
 <strong>This is how the log file(s) store the logged keys:</strong>
-<img  src="https://offseclab.com/wp-content/uploads/2018/03/python5.png"  />
+<img src="screenshots/screen7.png"  />
 
 <strong>This is the sent keys logged to the email specified:</strong>
-<img  src="https://offseclab.com/wp-content/uploads/2018/03/python6.png"  />
+<img src="screenshots/screen8.png"  />
 
 <hr />
 
