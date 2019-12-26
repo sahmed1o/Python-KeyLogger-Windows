@@ -1,6 +1,6 @@
 # This program is primarily used to research how keyloggers work.
 
-# CSL_KeyLogger_Windows
+# Python-KeyLogger-Windows
 A Keylogger written in Python 3.6 that takes in user input from the keyboard, stores the data in a log, and then sends it to an email address. The data log is destroyed after the email is sent to remain anonymous.
 
 <h1>DISCLAIMER</h1>
