@@ -34,7 +34,7 @@ py -3.6 -m pip install C:\Users\YourPath\pywin32-223-cp36-cp36m-win32.whl</li>
 </ul>
 &nbsp;
 
-<img src="https://offseclab.com/wp-content/uploads/2018/03/installinglibraries.png" />
+<img src="screenshots/screen1.png"  />
 
 <hr />
 
@@ -47,7 +47,7 @@ When using googles mail server, the email that you are using will be blocked for
 Sign into the gmail account that you want to use with the python program, and press the <strong>Turn On</strong> toggle button:
 <a href="https://www.google.com/settings/security/lesssecureapps">https://www.google.com/settings/security/lesssecureapps</a>
 
-<img  src="https://offseclab.com/wp-content/uploads/2018/03/toggle.png" />
+<img src="screenshots/screen2.png"  />
 <ul>
  	<li><strong>Python IDLE issues, keylogger is not picking up keys FIX:</strong></li>
 </ul>
